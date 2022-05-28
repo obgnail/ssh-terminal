@@ -1,0 +1,8 @@
+{
+  "addr": "119.23.130.214:8022",
+  "user": "XXXX",
+  "password": "",
+  "private_key": "",
+  "ssh_dir_path": "",
+  "command_chain_path": "./commands.txt"
+}

@@ -1,0 +1,5 @@
+cd ..
+su ones-api
+ones-api
+cd ones-api/
+./run_project_api.sh S5086
